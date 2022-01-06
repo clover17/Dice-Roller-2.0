@@ -10,6 +10,6 @@ Password: "diceroller2.0"
 
 => extra code also present in the app which is commented out
 
-=> extra code added to under different methods to complete the task
+=> extra code added to understand different methods to complete the task
 
 Designed by Virus
